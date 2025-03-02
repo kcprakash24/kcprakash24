@@ -18,7 +18,7 @@ I wrangle and train data for a living, building data solutions - from data incep
 ## 🤝 Let’s Connect
 - Catch me on [LinkedIn](https://www.linkedin.com/in/k-c-prakash/) to talk data, code, or random thoughts!
 
-## Fun Facts 
+## 😎 Fun Facts 
 - Little experience Writing iOS apps &  Swift,
 - Avid Gamer
 - Movie Fanatic
