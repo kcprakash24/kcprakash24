@@ -1,6 +1,6 @@
 # Hey there! 👋 I’m K C Prakash
 
-I wrangle and train data for a living, building data solutions - from data inception to deployment. Always tinkering, learning, and aiming to build something amazing! 🚀
+I wrangle and train data for a living, building data science solutions - from data inception to deployment. Always tinkering, learning, and aiming to build something amazing! 🚀
 
 ## What I Do
 - **Explore Data**: Uncovering stories/insights from messy datasets.  
