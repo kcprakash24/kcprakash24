@@ -19,7 +19,6 @@ I wrangle and train data for a living, building data science solutions - from da
 - Catch me on [LinkedIn](https://www.linkedin.com/in/k-c-prakash/) to talk data, code, or random thoughts!
 
 ## 😎 Fun Facts 
-- Little experience Writing iOS apps &  Swift,
-- Avid Gamer
-- Movie Fanatic
+- Little experience with Writing iOS apps & Swift
+- Avid Gamer & Movie Fanatic
 - Love a good cup of coffee ☕  
