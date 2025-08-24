@@ -16,7 +16,7 @@ I wrangle and train data for a living, building data science solutions - from da
 - Experimenting with cloud services (AWS & Azure) to leverage compute resources/LLMs
 
 ## 🤝 Let’s Connect
-- Catch me on [LinkedIn](https://www.linkedin.com/in/k-c-prakash/) to talk data, code, or random thoughts!
+- Catch me on [LinkedIn](https://www.linkedin.com/in/k-c-prakash/) to talk about data, code, or random thoughts!
 
 ## 😎 Fun Facts 
 - Little experience with Writing iOS apps & Swift
